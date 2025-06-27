@@ -1,0 +1,14 @@
+This is a placeholder PDF for the AI Tools Assignment report.
+
+Please generate the actual PDF report by:
+1.  Compiling the answers from:
+    *   `part1_theory/theoretical_questions.md`
+    *   `part3_ethics_optimization/ethics_and_optimization.md` (including the troubleshooting section)
+2.  Including screenshots of model outputs from the Jupyter Notebooks:
+    *   `part2_practical/task1_sklearn/iris_classification.ipynb` (e.g., classification report, accuracy scores)
+    *   `part2_practical/task2_tensorflow_pytorch/mnist_cnn.ipynb` (e.g., model accuracy, sample prediction visualizations, training history plots)
+    *   `part2_practical/task3_spacy/amazon_reviews_nlp.ipynb` (e.g., extracted entities and sentiment output)
+3.  Adding any other required sections, such as group member names, introduction, conclusion, and ethical reflection summary.
+4.  If the bonus task was completed, include screenshots and a link to the live demo.
+
+This placeholder is created because automated generation of a formatted PDF with embedded images and diverse content is beyond the current capabilities. You can use tools like Pandoc (Markdown to PDF) or manually compile it in a word processor.
