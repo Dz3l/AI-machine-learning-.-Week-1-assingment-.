@@ -6,6 +6,7 @@ from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropou
 from tensorflow.keras.utils import to_categorical
 import numpy as np
 import cv2 # OpenCV for image manipulation
+import pandas as pd # For creating DataFrames for charts
 
 # Define the model architecture (must be same as the trained one)
 def create_mnist_cnn_model():
